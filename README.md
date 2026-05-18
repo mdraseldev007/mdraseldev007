@@ -76,17 +76,14 @@
 
 <div align="center">
 
+
 # GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdraseldev007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=8A2BE2&icon_color=00FFFF&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdraseldev007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=8A2BE2&icon_color=00FFFF&text_color=FFFFFF" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdraseldev007&theme=tokyonight&hide_border=true&background=050816&ring=8A2BE2&fire=00FFFF&currStreakLabel=FFFFFF"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=mdraseldev007&theme=tokyonight&hide_border=true&background=050816&ring=8A2BE2&fire=00FFFF&currStreakLabel=FFFFFF" />
 
 </div>
-
----
-
-<div align="center">
 
 # Most Used Languages
 
