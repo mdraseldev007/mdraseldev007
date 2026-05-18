@@ -1,98 +1,132 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=38&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Md+Rasel;Flutter+Developer;Clean+Architecture+Focused;Building+Scalable+Applications" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/your-image-link-here" width="180" style="border-radius: 50%;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,50:8A2BE2,100:00FFFF&text=Md%20Rasel&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer&descAlignY=55&descSize=22"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Flutter+Developer+focused+on+scalable+mobile+applications+and+clean+architecture."/>
 
 </div>
 
-<h3 align="center">
-Flutter Developer focused on scalable mobile applications and clean architecture.
-</h3>
+---
+
+<img align="right" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+```dart
+import 'package:flutter/material.dart';
+import 'package:get/get.dart';
+import 'package:firebase_core/firebase_core.dart';
+
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp();
+  runApp(const MyApp());
+}
+
+class Developer {
+  String name = "Md Rasel";
+  String role = "Flutter Developer";
+
+  List<String> skills = [
+    'Flutter',
+    'Dart',
+    'Firebase',
+    'REST APIs',
+    'GetX',
+    'BLoC'
+  ];
+}
+```
+
+<br>
+
+<div align="center">
+
+| Clean Code | Performance | Scalable | Problem Solver |
+|:---:|:---:|:---:|:---:|
+| Write maintainable and scalable code | Optimize for speed and efficiency | Build systems that grow | Turn ideas into real-world solutions |
+
+</div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-## Tech Stack
+# Tech Stack
 
 <div align="left">
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/REST%20API-0D1117?style=for-the-badge&logo=fastapi&logoColor=00FFFF" />
+<img src="https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge&logo=fastapi&logoColor=00FFFF&labelColor=0D1117" />
 
-<img src="https://img.shields.io/badge/GetX-0D1117?style=for-the-badge&logo=flutter&logoColor=8A2BE2" />
+<img src="https://img.shields.io/badge/GetX-0D1117?style=for-the-badge&logo=flutter&logoColor=8A2BE2&labelColor=0D1117" />
 
-<img src="https://img.shields.io/badge/BLoC-0D1117?style=for-the-badge&logo=flutter&logoColor=00BFFF" />
+<img src="https://img.shields.io/badge/BLoC-0D1117?style=for-the-badge&logo=flutter&logoColor=00BFFF&labelColor=0D1117" />
 
 </div>
 
 ---
 
-## Current Focus
+# Current Focus
 
 ```yaml
-Software Architecture
-Backend Systems
-CI/CD
-Testing
-Performance Optimization
+- Software Architecture
+- Backend Systems
+- CI/CD
+- Testing
+- Performance Optimization
 ```
 
 ---
 
-## Links
+# Links
 
 <p align="left">
+
 <a href="https://rasel007dev.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FFFF" />
+<img src="https://img.shields.io/badge/Portfolio-050816?style=for-the-badge&logo=google-chrome&logoColor=00FFFF"/>
 </a>
 
 <a href="https://linkedin.com/in/md-rasel-m007">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8A2BE2" />
+<img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=8A2BE2"/>
 </a>
+
 </p>
 
 ---
 
-## GitHub Analytics
+<div align="center">
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdraseldev007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=00FFFF&text_color=FFFFFF" />
+# GitHub Analytics
 
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdraseldev007&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=00FFFF&currStreakLabel=FFFFFF" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdraseldev007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=8A2BE2&icon_color=00FFFF&text_color=FFFFFF"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdraseldev007&theme=tokyonight&hide_border=true&background=050816&ring=8A2BE2&fire=00FFFF&currStreakLabel=FFFFFF"/>
+
+</div>
 
 ---
 
-## Most Used Languages
+<div align="center">
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdraseldev007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF" />
-</p>
+# Most Used Languages
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdraseldev007&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=8A2BE2&text_color=FFFFFF"/>
+
+</div>
 
 ---
 
 <div align="center">
 
 ```bash
-Code with purpose.
-Build with passion.
-Solve real problems.
-Stay focused. Keep growing.
+$ Code with purpose.
+$ Build with passion.
+$ Solve real problems.
+$ Stay focused. Keep growing.
 ```
 
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=120&section=footer"/>
-</p>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00FFFF,50:8A2BE2,100:050816&section=footer"/>
