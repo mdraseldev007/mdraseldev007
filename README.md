@@ -86,9 +86,11 @@
 
 <div align="center">
 
-# Most Used Languages
+<div align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdraseldev007&layout=compact&theme=tokyonight&hide_border=true" />
+# Development Environment
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="75%" />
 
 </div>
 
