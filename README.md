@@ -19,7 +19,6 @@ Flutter Developer focused on scalable mobile applications and clean architecture
 - REST APIs
 - GetX
 - BLoC
-- Node.js
 
 ---
 
