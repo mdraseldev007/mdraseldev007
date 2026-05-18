@@ -84,21 +84,11 @@
 
 </div>
 
----
-
 <div align="center">
 
 # Most Used Languages
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdraseldev007&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=8A2BE2&text_color=FFFFFF"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdraseldev007&theme=tokyonight" width="100%" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdraseldev007&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
